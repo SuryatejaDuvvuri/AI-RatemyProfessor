@@ -1,5 +1,5 @@
 
-# AI Customer Chatbot
+# AI Rate my Professor
 
 This is our fifth project for the Headstarter Fellowship project, which focuses on the applications of vector databases by making an AI version of Rate My Professor. We tried to implement Web scraping and a recommendation system, but more time was spent fixing errors with the vector database and AI while setting up the project. This is the first level of the project, and it is currently deployed on Vercel.
 
